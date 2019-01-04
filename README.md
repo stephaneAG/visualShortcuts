@@ -33,3 +33,14 @@ Repo dedicated to getting "additional displays shortcuts" for application curren
 - creating one: https://developer.apple.com/documentation/coregraphics/cgdisplaystream/1454968-init
 - getting an img rect: https://developer.apple.com/documentation/coregraphics/1454595-cgdisplaycreateimage
 - non-accelerated graphics card stuff ( 'll my hdmi I2C hack work ?): https://developer.apple.com/library/archive/qa/qa1542/_index.html
+
+### some more related content:
+- https://stackoverflow.com/questions/14017895/capture-screen-with-cgdisplaystream
+- https://github.com/DouglasHeriot/PresenterMirror
+- https://github.com/zakk4223/CocoaSplit
+- https://www.cocoasplit.com
+- https://www.realartists.com/blog/retroclip-instant-replay-for-your-mac.html
+- https://developer.apple.com/documentation/coregraphics/cgcontext
+- https://developer.apple.com/documentation/coregraphics/cgcontext/1455517-data
+- https://developer.apple.com/documentation/coregraphics/cglayer
+- https://developer.apple.com/documentation/coregraphics/cglayer
